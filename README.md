@@ -1,4 +1,5 @@
 # InTune-Automation
+##### You don't need to click on RESTORE anymore! Just boot from USB and it will automatically deploy an image to HDD ;)
 
 To improve your InTune USB, follow these simple steps:
 
